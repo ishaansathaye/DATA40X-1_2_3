@@ -1,4 +1,5 @@
+# DATA 401 - Data Science Process and Ethics
+
 # DATA 402 - Mathematical Foundations of Data Science
 
-## Projects
-- [Project 1](https://github.com/TheAllenChoi/data403-project1)
+# DATA 403 - Projects Laboratory
